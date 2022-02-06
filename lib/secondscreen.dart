@@ -55,7 +55,7 @@ class _MainScreenState extends State<SecondScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Chat bot",
+          "Chatbot",
         ),
       ),
       body: Container(
